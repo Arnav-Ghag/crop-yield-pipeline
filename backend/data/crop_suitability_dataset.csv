@@ -1,0 +1,24 @@
+Crop       , Rainfall_mm, Temperature_C, pH     , Soil_Type , Season
+Rice       , 1000-1500  , 20-35        , 5.5-7.0, Clay/Loamy, Kharif
+Wheat      , 500-800    , 10-25        , 6.0-7.5, Loamy     , Rabi
+Maize      , 600-900    , 18-30        , 5.5-7.5, Loamy     , Kharif
+Cotton     , 600-1200   , 20-35        , 5.5-8.0, Black soil, Kharif
+Sugarcane  , 1000-2000  , 20-38        , 6.0-8.0, Loamy     , Annual
+Barley     , 400-700    , 12-25        , 6.0-7.5, Loamy     , Rabi
+Millet     , 300-600    , 25-35        , 5.0-7.5, Sandy     , Kharif
+Gram       , 400-700    , 20-30        , 6.0-7.5, Loamy     , Rabi
+Tur (Arhar), 600-1000   , 20-35        , 6.0-7.5, Loamy     , Kharif
+Urad       , 600-1000   , 25-35        , 6.0-7.5, Sandy Loam, Kharif
+Moong      , 500-800    , 25-35        , 6.0-7.5, Sandy Loam, Kharif
+Masoor     , 400-700    , 18-30        , 6.0-7.5, Loamy     , Rabi
+Mustard    , 300-600    , 10-25        , 6.0-7.5, Loamy     , Rabi
+Sunflower  , 500-800    , 20-30        , 6.0-7.5, Loamy     , Kharif
+Groundnut  , 500-1000   , 20-30        , 6.0-7.5, Sandy Loam, Kharif
+Soybean    , 600-1000   , 20-30        , 6.0-7.5, Loamy     , Kharif
+Potato     , 500-700    , 15-25        , 5.5-6.5, Sandy Loam, Rabi
+Onion      , 500-800    , 13-25        , 6.0-7.5, Loamy     , Rabi
+Garlic     , 500-800    , 12-24        , 6.0-7.5, Loamy     , Rabi
+Turmeric   , 1000-2000  , 20-30        , 5.5-7.5, Loamy     , Kharif
+Ginger     , 1000-2000  , 20-30        , 5.5-7.5, Loamy     , Kharif
+Coconut    , 1500-2500  , 25-35        , 5.0-8.0, Sandy     , Annual
+Arecanut   , 1500-3000  , 20-35        , 5.0-7.0, Loamy     , Annual

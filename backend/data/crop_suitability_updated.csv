@@ -1,0 +1,24 @@
+Crop       , Temperature_C, Rainfall_mm, Soil_Type , Season, Rainfall_min_mm, Rainfall_max_mm, Temperature_min_C, Temperature_max_C
+Rice       , 20-35        , 1000-1500  , Loamy     , Kharif,            1000,            1500,                20,                35
+Wheat      , 10-25        , 500-800    , Loamy     , Rabi  ,             500,             800,                10,                25
+Maize      , 18-30        , 600-900    , Loamy     , Kharif,             600,             900,                18,                30
+Cotton     , 20-35        , 600-1200   , Black soil, Kharif,             600,            1200,                20,                35
+Sugarcane  , 20-38        , 1000-2000  , Loamy     , Annual,            1000,            2000,                20,                38
+Barley     , 12-25        , 400-700    , Loamy     , Rabi  ,             400,             700,                12,                25
+Millet     , 25-35        , 300-600    , Sandy     , Kharif,             300,             600,                25,                35
+Gram       , 20-30        , 400-700    , Loamy     , Rabi  ,             400,             700,                20,                30
+Tur (Arhar), 20-35        , 600-1000   , Loamy     , Kharif,             600,            1000,                20,                35
+Urad       , 25-35        , 600-1000   , Sandy Loam, Kharif,             600,            1000,                25,                35
+Moong      , 25-35        , 500-800    , Sandy Loam, Kharif,             500,             800,                25,                35
+Masoor     , 18-30        , 400-700    , Loamy     , Rabi  ,             400,             700,                18,                30
+Mustard    , 10-25        , 300-600    , Loamy     , Rabi  ,             300,             600,                10,                25
+Sunflower  , 20-30        , 500-800    , Loamy     , Kharif,             500,             800,                20,                30
+Groundnut  , 20-30        , 500-1000   , Sandy Loam, Kharif,             500,            1000,                20,                30
+Soybean    , 20-30        , 600-1000   , Loamy     , Kharif,             600,            1000,                20,                30
+Potato     , 15-25        , 500-700    , Sandy Loam, Rabi  ,             500,             700,                15,                25
+Onion      , 13-25        , 500-800    , Loamy     , Rabi  ,             500,             800,                13,                25
+Garlic     , 12-24        , 500-800    , Loamy     , Rabi  ,             500,             800,                12,                24
+Turmeric   , 20-30        , 1000-2000  , Loamy     , Kharif,            1000,            2000,                20,                30
+Ginger     , 20-30        , 1000-2000  , Loamy     , Kharif,            1000,            2000,                20,                30
+Coconut    , 25-35        , 1500-2500  , Sandy     , Annual,            1500,            2500,                25,                35
+Arecanut   , 20-35        , 1500-3000  , Loamy     , Annual,            1500,            3000,                20,                35
