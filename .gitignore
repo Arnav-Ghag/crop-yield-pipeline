@@ -1,6 +1,11 @@
-venv
-.vscode
-__pycache__
-*.pyc
-*.log
+venv/
+node_modules/
+__pycache__/
 *.pkl
+.env
+backend/services/chatbot.py
+*.log
+frontend/.vite/
+frontend/node_modules/
+package-lock.json
+frontend/package-lock.json

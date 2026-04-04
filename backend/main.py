@@ -6,6 +6,7 @@ import joblib
 import sys
 import os
 from backend.services.chatbot import ask_farming_assistant
+from backend.services.rotation import get_rotation
 
 sys.path.append(os.path.dirname(__file__))
 from backend.services.recommendation import recommend_crops
@@ -15,7 +16,7 @@ app = FastAPI(title="Agricultural AI Platform")
 # Allow React frontend to call this API
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["http://localhost:5174"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -104,3 +105,11 @@ class ChatRequest(BaseModel):
 def chat(req: ChatRequest):
     response = ask_farming_assistant(req.question, req.context)
     return {"response": response}
+
+class RotationRequest(BaseModel):
+    current_crop: str
+
+@app.post("/crop-rotation")
+def crop_rotation(req: RotationRequest):
+    result = get_rotation(req.current_crop)
+    return result

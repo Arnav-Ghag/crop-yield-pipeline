@@ -3,7 +3,7 @@ import os
 # importing the updated crop suitability dataset
 crop_sustanablity_updated = pd.read_csv(
     os.path.join(os.path.dirname(__file__), "D:\\DEV\\crop-yield-pipeline\\backend\\data\\crop_suitability_updated.csv")
-)
+)# inefficient boils down to read_csv("D:\\DEV\\crop-yield-pipeline\\backend\\data\\crop_suitability_updated.csv")
 
 
 crop_sustanablity_updated.columns = crop_sustanablity_updated.columns.str.strip()
