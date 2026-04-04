@@ -136,7 +136,14 @@ Frontend runs at `http://localhost:5173`
 
 ## Screenshots
 
-> Add screenshots of the dashboard here after running the project locally.
+<img width="1815" height="958" alt="Crop Advisor" src="https://github.com/user-attachments/assets/cf321857-5239-42b1-a2e3-1e3d1de0e8cf" />
+
+<img width="1814" height="956" alt="Yeild Forcast" src="https://github.com/user-attachments/assets/a43a8d62-a5b0-489e-a503-35074e3bbe46" />
+
+<img width="1683" height="966" alt="Ai Assistant" src="https://github.com/user-attachments/assets/05f784b1-d899-460a-b9ae-827e9f4bf420" />
+
+<img width="1817" height="962" alt="Crop Rotation" src="https://github.com/user-attachments/assets/ff909d08-7515-4eca-bf6e-ef9511e32d1c" />
+
 
 ---
 
