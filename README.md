@@ -150,7 +150,7 @@ Frontend runs at `http://localhost:5173`
 ## Author
 
 **Arnav Ghag**  
-Electronics & Telecommunication Engineering  
+Btech Electronics & Telecommunication Engineering  
 GitHub: [@Arnav-Ghag](https://github.com/Arnav-Ghag)
 
 ---
